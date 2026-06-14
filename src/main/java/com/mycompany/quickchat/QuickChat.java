@@ -155,7 +155,7 @@ public class QuickChat {
         System.out.println("Total messages sent: " + Message.returnTotalMessages());
         System.out.println("========================================");
     }
- //Implement JSON file storage for messages
+ //
     // ════════════════════════════════════════════════════════════
     // STORED MESSAGES SUB-MENU  (Part 3 – Requirement 2)
     // ════════════════════════════════════════════════════════════
