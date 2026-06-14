@@ -24,7 +24,7 @@ public class Message {
     private boolean isSent;
     private boolean isStored;
     private boolean isDisregarded;
-    
+    //Fix searchByMessageID tests - resolve ID collision
     // Static arrays for Part 3 - store all messages by category
     private static Message[] sentMessagesArray = new Message[100];
     private static Message[] disregardedMessagesArray = new Message[100];
